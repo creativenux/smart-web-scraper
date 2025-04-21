@@ -16,7 +16,7 @@ A python web scraper with intelligent content extraction capabilities that auto 
 - Chrome/chromium browser (for selenium if javascript content is detected)  
 
 ### Install Dependencies
-Install required packages with `pip install requests bs4 selenium`
+Install required packages with `pip3 install -r requirements.txt`
 
 ### Clone the repo
 - `git clone https://github.com/creativenux/smart-web-scraper.git`
